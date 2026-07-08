@@ -84,5 +84,5 @@ Stata (ARDL, VAR, ECM, diagnostics), Python (data visualization)
 
 ## 📄 Full Paper
 
-See [`AMFE_Term_Paper.pdf`](./AMFE TERM PAPER.pdf) for the complete write-up, 
+See [`AMFE TERM PAPER.pdf`](./AMFE_TERM _PAPER.pdf) for the complete write-up, 
 literature review, full tables, and references.
