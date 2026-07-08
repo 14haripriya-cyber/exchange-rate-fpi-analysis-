@@ -84,5 +84,5 @@ Stata (ARDL, VAR, ECM, diagnostics), Python (data visualization)
 
 ## 📄 Full Paper
 
-See [`AMFE TERM PAPER.pdf`](./AMFE_TERM _PAPER.pdf) for the complete write-up, 
+See [`AMFE TERM PAPER.pdf`](https://github.com/14haripriya-cyber/exchange-rate-fpi-analysis-/blob/main/AMFE%20TERM%20PAPER.pdf) for the complete write-up, 
 literature review, full tables, and references.
